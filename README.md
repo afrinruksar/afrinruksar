@@ -2,7 +2,7 @@
 ## I am Afrin Ruksar 
 
 <!-- Banner (AI/ML themed) -->
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="AI Brain Animation" width="100%" />
+<img src="[https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="AI Brain Animation" width="100%](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px)" />
 
 <h1 align="center">Hi 👋, I'm Afrin Ruksar</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Creative Coder</h3>
