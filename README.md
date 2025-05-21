@@ -11,10 +11,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on [**iemcseaiml**](https://github.com/afrinruksar/iemcseaiml)
+- 🔭 I’m currently working on [**Online Food Delivery System**](https://github.com/afrinruksar/iemcseaiml)
 - 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **Full Stack Development**, **Web Technologies**, or **AI Concepts**
-- 📫 Reach me at: **[shashiranjan94314@gmail.com](mailto:shashiranjan94314@gmail.com)**
+- 📫 Reach me at: **[linkedin.com/in/afrin-ruksar-8b57b128b]**
 
 ---
 
@@ -25,7 +25,7 @@
 | 🔍 [**Titanic-Exploratory-Analysis**](https://github.com/afrinruksar/Titanic-Exploratory-Analysis) | ML project to analyze Titanic survival patterns using Jupyter |
 | 🏥 [**Hospital-Management-System**](https://github.com/afrinruksar/Hospital-Management-System) | Simple hospital website using HTML |
 | 🔐 [**OTP-Generator**](https://github.com/afrinruksar/OTP-Generator) | Java program to generate OTP securely |
-| 🍔 [**Online-Food-Delivery-System**](https://github.com/afrinruksar/Online-Food-Delivery-System) | A food delivery system prototype |
+| 🍔 [**Online-Food-Delivery-System**](https://github.com/afrinruksar/Online-Food-Delivery-System) | A food delivery system with AI and ML |
 | 🧠 [**iemcseaiml**](https://github.com/afrinruksar/iemcseaiml) | College repository focused on AI/ML |
 | 🙋‍♀️ [**afrinruksar**](https://github.com/afrinruksar/afrinruksar) | This GitHub profile README |
 
@@ -88,7 +88,7 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/Afrin%20Ruksar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afrinruksar)
+[![LinkedIn] linkedin.com/in/afrin-ruksar-8b57b128b / [Gmail] afrinruksar2017@gmail.com]
 
 ---
 
