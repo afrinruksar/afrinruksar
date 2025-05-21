@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Afrin Ruksar</h1>
-<h3 align="center">Full Stack Developer | Passionate about building intelligent real-world systems</h3>
-
-
 <p align="center">
   <img src="https://github.com/afrinruksar/afrinruksar/blob/main/A%20normal%20wallpaper%20design%20image.png?raw=true" />
 </p>
