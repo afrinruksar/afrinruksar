@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="[YOUR_IMAGE_URL_HERE" width="600px" alt="Wallpaper Design](https://github.com/afrinruksar/afrinruksar/blob/main/A%20normal%20wallpaper%20design%20image.png)" />
+  <img src="https://github.com/afrinruksar/afrinruksar/blob/main/A%20normal%20wallpaper%20design%20image.png?raw=true" />
 </p>
 
 <p align="center">
