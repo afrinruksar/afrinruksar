@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Afrin Ruksar</h1>
 <h3 align="center">Full Stack Developer | Passionate about building intelligent real-world systems</h3>
 
+
+<p align="center">
+  <img src="[YOUR_IMAGE_URL_HERE" width="600px" alt="Wallpaper Design](https://github.com/afrinruksar/afrinruksar/blob/main/A%20normal%20wallpaper%20design%20image.png)" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="AI animation" />
 </p>
