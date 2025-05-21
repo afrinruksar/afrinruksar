@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/afrinruksar/afrinruksar/blob/main/A%20normal%20wallpaper%20design%20image.png?raw=true" />
+  <img src="![image](https://github.com/user-attachments/assets/8a64b726-e4ab-4bfc-aaab-79c33afd281e)" />
 </p>
 
 <p align="center">
