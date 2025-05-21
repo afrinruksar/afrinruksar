@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afrin Ruksar</h1>
-<h3 align="center">AI & ML Developer | Passionate about building intelligent real-world systems</h3>
+<h3 align="center">Full Stack Developer | Passionate about building intelligent real-world systems</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="AI animation" />
@@ -7,8 +7,8 @@
 
 ---
 
-### 💻 Currently Working On
-🌐 An **AI & ML system for Online Food Delivery**, optimizing real-time order prediction and smart routing.
+### 🌱 Currently Working On
+🌐  **AI & ML system for Online Food Delivery System**, optimizing real-time order prediction and smart routing.
 
 ---
 
@@ -39,20 +39,9 @@
 
 ### 🏆 Achievements
 
-- 🥇 Built 5+ full-stack and ML-based projects  
-- 📊 Strong grasp of algorithms, model training & backend  
-- 👩‍💻 Participated in academic ML competitions  
+- 🥇 Built few full-stack and ML-based projects  
+- 📊 Strong grasp of algorithms, model training & backend    
 - 🌟 Excellent communicator and collaborative coder  
-
----
-
-### 🌟 Project Banner
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/afrinruksar/afrinruksar/main/assets/banner.png" alt="Project Banner" />
-</p>
-
-> ⚠️ Upload your banner image to your repo's `assets/banner.png` to make this work.
 
 ---
 
